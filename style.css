@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.more-inf {
+.about-info {
   font-family: fantasy, cursive;
 }
 
@@ -38,7 +38,7 @@ body {
   width: 56%;
 }
 
-.task-row-wrapper {
+.create-todo_wrapper {
   display: flex;
 }
 
@@ -140,13 +140,13 @@ li > label {
   font-size: 18px;
 }
 
-.delete img {
+.delete-button_img {
   height: 2em;
   transition: transform 200ms ease-in;
   transform: rotateZ(45deg);
 }
 
-.delete img:hover {
+.delete-button_img:hover {
   transform: rotateZ(0);
 }
 
