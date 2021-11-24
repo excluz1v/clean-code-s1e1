@@ -5,23 +5,23 @@ body {
   background-color: #f8f8f8;
 }
 
-.aaa {
+.about {
   display: block;
   width: 500px;
   margin: 0 auto;
   text-align: right;
 }
 
-.aaa img {
+.about img {
   width: 100%;
 }
 
-.aaa .more-inf {
+.about .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .aaa {
+  .about {
     text-align: center;
   }
 }
